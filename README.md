@@ -1,4 +1,4 @@
 # algorithm
 ---
 - programmers
-- baekjoon, solved.ac
+- solved.ac
