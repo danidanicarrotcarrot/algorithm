@@ -1,4 +1,4 @@
-## # for algorithmic study
+## # Algorithm Study
 ---
 - programmers
 - solved.ac
