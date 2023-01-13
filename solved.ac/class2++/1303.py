@@ -46,7 +46,6 @@ def bdfs(x, y):
         return True
     return False
 
-
 w_cnt, w_result, b_cnt, b_result = [], [], [], []
 
 for i in range(n):
@@ -60,3 +59,8 @@ for i in range(n):
             b_cnt = []
 
 print(sum(w_result), sum(b_result))
+
+'''
+답지의 도움을 받았당
+그래프 받을 때 m, n 을 반대로 썼더니 계속 런타임 에러나서 뭐가 잘못된거지 하고 한참 봄 ㅠㅠ
+'''
